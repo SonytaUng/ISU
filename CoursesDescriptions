@@ -1,0 +1,366 @@
+Courses, Computer Science, ISU
+
+COM S 101: Orientation
+Cr. R. F.S.
+
+Required orientation class for all incoming students in the Computer Science major. Topics include academic planning and policies, campus resources, and supports. Opportunity to connect with other computer science peers, faculty, alumni, and employers. Offered on a satisfactory-fail basis only.
+
+
+COM S 106: Introduction to Web Programming
+(3-0) Cr. 3. F.S.
+
+Introduction to web programming basics. Fundamentals of developing web pages using a comprehensive web development life cycle. Learn to design and code practical real-world homepage programs and earn adequate experience with current web design techniques such as HTML5 and cascading style sheets. Students also learn additional programming languages including JavaScript, jQuery, PHP, SQL, and MySQL. Strategies for accessibility, usability and search engine optimization. No prior computer programming experience necessary.
+
+
+COM S 203: Careers in Computer Science
+Cr. R. F.S.
+
+Computer science as a profession. Introduction to career fields open to computer science majors. Relationship of coursework to careers. Presentations by computer science professionals. Offered on a satisfactory-fail basis only.
+
+
+COM S 227: Object-oriented Programming
+(3-2) Cr. 4. F.S.SS.
+Prereq: Credit or concurrent enrollment in MATH 143 or higher; (COM S 127 or CPR E 185 or S E 185 or E E 285)
+Computer programming using objects as the mechanism for modularity, abstraction, and code reuse. Instance variables, methods, and encapsulation. Review of control structures for conditionals and iteration. Developing algorithms on strings, arrays, and lists. Recursion, searching, and sorting. Text parsing and file I/O. Interfaces, inheritance, polymorphism, and abstract classes. Exception handling. Tools for unit testing and debugging. Emphasis on a disciplined approach to specification, code development, and testing. Course intended for majors in computer science and related fields. Credit may not be applied toward graduation for both Com S 207 and 227.
+
+
+COM S 228: Introduction to Data Structures
+(3-1) Cr. 3. F.S.SS.
+Prereq: Minimum of C- in COM S 227; credit or concurrent enrollment in MATH 165
+An object-oriented approach to data structures and algorithms. Object-oriented analysis, design, and programming, with emphasis on data abstraction, inheritance and subtype polymorphism, and generics. Abstract data type specification and correctness. Collections including lists, stacks, queues, trees, heaps, maps, hash tables, and graphs. Big-O notation and algorithm analysis. Searching and sorting. Graph search and shortest path algorithms. Emphasis on object-oriented design, writing and documenting medium-sized programs. This course is designed for majors.
+
+
+COM S 230: Discrete Computational Structures
+(Cross-listed with MATH). (3-1) Cr. 3. F.S.SS.
+Prereq: Minimum of C- in (COM S 227; MATH 165); ENGL 150
+Concepts in discrete mathematics as applied to computer science. Logic, set theory, functions, relations, cardinality of sets, combinatorics, graph theory and number theory. Proof techniques, induction and recursion.
+COM S 309: Software Development Practices
+(Cross-listed with S E). (3-1) Cr. 3. F.S.
+Prereq: Minimum of C- in (COM S 228; MATH 165)
+Practical introduction to methods for managing software development. Software engineering concepts, practices and tools. Requirements analysis, structured and object-oriented design, coding, testing, and maintenance. Software process models, software tools and environments. Programming projects that provide exposure to information management techniques, client/server model, networking and communication.
+
+
+COM S 311: Introduction to the Design and Analysis of Algorithms
+(3-1) Cr. 3. F.S.SS.
+Prereq: Minimum of C- in (COM S 228; MATH 166, ENGL 150); (COM S 230 or CPR E 310)
+Basic techniques for design and analysis of algorithms. Sorting, searching, graph algorithms, string matching, algorithms for secure computing such as RSA, and NP-completeness. Design techniques such as dynamic programming, divide and conquer, greedy method, and approximation. Asymptotic, worst-case, average-case and amortized analyses. Topics from advanced data structures such as balanced trees and hashing. Programming projects.
+
+
+COM S 319: Construction of User Interfaces
+(Cross-listed with S E). (3-0) Cr. 3. F.S.
+Prereq: COM S 228
+Overview of user interface design. Evaluation and testing of user interfaces. Review of principles of object orientation, object oriented design and analysis using UML in the context of user interface design. Design of windows, menus and commands. Developing Web and Windows-based user-interfaces. Event-driven programming. Introduction to Frameworks and APIs for the construction of user interfaces.
+
+
+COM S 321: Introduction to Computer Architecture and Machine-Level Programming
+(3-1) Cr. 3. F.S.
+Prereq: Minimum of C- in COM S 228 and MATH 165; COM S 230 or CPR E 281; ENGL 250
+Introduction to computer architecture and organization. Emphasis on evaluation of performance, instruction set architecture, datapath and control, memory-hierarchy design, and pipelining. Assembly language programming.
+
+
+COM S 327: Advanced Programming Techniques
+(3-0) Cr. 3. F.S.
+Prereq: Minimum of C- in (COM S 228; MATH 165)
+Object-oriented programming experience using a language suitable for exploring advanced topics in programming. Topics include memory management, parameter passing, inheritance, compiling, debugging, and maintaining programs. Significant programming projects.
+
+
+COM S 331: Theory of Computing
+(Cross-listed with LING). (3-1) Cr. 3. F.S.
+Prereq: Minimum of C- in (COM S 228; MATH 166; ENGL 250); (COM S 230 or CPR E 310)
+Models of computation: finite state automata, pushdown automata and Turing machines. Study of grammars and their relation to automata. Limits of digital computation, unsolvability and Church-Turing thesis. Relations between classes of languages.
+
+
+COM S 342: Principles of Programming Languages
+(Cross-listed with S E). (3-1) Cr. 3. F.S.
+Prereq: Minimum of C- in COM S 228 and MATH 165; COM S 230 or CPR E 310
+Study of concepts in programming languages, especially functional programming concepts. Overview of major programming paradigms, their relationship, and tradeoffs among paradigms enabling sound choices of programming language for application-specific development. Programming projects.
+COM S 352: Introduction to Operating Systems
+(3-1) Cr. 3. F.S.
+Prereq: (COM S 321 or CPR E 381); (COM S 327 or CPR E 288); ENGL 250
+Survey of operating systems; process management including scheduling and multithreading; memory management including virtual memory and paging; concurrency including mutual exclusion, synchronization, and deadlocks; persistent storage and file systems; principles and practices of secure computing including threats and access control; networking and distributed systems; virtualization. Programming projects.
+
+
+distributed systems; virtualization. Programming projects.
+COM S 362: Object-Oriented Analysis and Design
+(Cross-listed with S E). (3-0) Cr. 3. F.S.
+Prereq: Minimum of C- in (COM S 228; MATH 165); ENGL 250
+Object-oriented requirements analysis and systems design. Analysis and design methodologies including use case and Unified Modeling Language (UML). Design principles, heuristics, and patterns. Architectural patterns and alternative programming paradigms. Group design and programming project.
+COM S 363: Introduction to Database Management Systems
+(3-0) Cr. 3. F.S.
+Prereq: Minimum of C- in (COM S 228; MATH 165); ENGL 250
+Data models and database design using entity relationship model. Database implementation with relational and graph database management systems (DBMS) and query languages. DBMS internals including basic concepts of database storage, indexing, query optimization, and concurrent control. Database application development. Programming Projects.
+COM S 402: Computer Science Senior Project
+Cr. 2-3. Repeatable, maximum of 6 credits. F.S.
+Prereq: COM S 309, COM S 311, COM S 321, COM S 331, and Senior Classification
+Students work as individuals and teams to complete the planning, design, and implementation of a significant project in the topic area. Oral and written reports. Recommended final semester Senior year. No more than 6 credits of 402A, 402B, and 402C may be used toward graduation.
+COM S 417: Software Testing
+(Cross-listed with S E). (3-0) Cr. 3.
+Prereq: COM S 309; (COM S 230 or CPR E 310); ENGL 250
+An introduction to software testing principles and techniques. Test models, test design, test adequacy criteria; regression, integration, and system testing; and software testing tools.
+COM S 435: Algorithms for Large Data Sets: Theory and Practice
+(Dual-listed with COM S 535). (3-0) Cr. 3.
+Prereq: COM S 311 or equivalent; for graduate credit: graduate standing or permission of instructor
+Algorithmic challenges involved in solving computational problems on massive data sets. Probabilistic data structures, Curse of Dimensionality and dimensionality reduction, locality sensitive hashing, similarity measures, matrix decompositions. Optimization problems in massive data analysis. Computational problems that arise in the context of web search, social network analysis, online advertising etc. Practical aspects include implementation and performance evaluation of the algorithms on real world data sets. Graduate credit requires a written report on current research.
+
+
+STAT 305: ENGINEERING STATISTICS
+(3-0) Cr. 3. F.S.SS.
+Prereq: MATH 165
+Statistics for engineering problem solving. Principles of engineering data collection; descriptive statistics; elementary probability distributions; principles of experimentation; confidence intervals and significance tests; one-, two-, and multi-sample studies; regression analysis; use of statistical software. Credit for both STAT 105 and STAT 305 may not be applied toward graduation.
+LEARNING OUTCOMES:
+At the completion of this course, the student should have the ability to:
+
+
+1.	View given data and related statistics in the context of random variables.
+2.	Distinguish between statistics as estimates versus estimators of parameters
+3.	Appreciate the concept of uncertainty in relation to reported statistics
+4.	Be sufficiently competent in fundamentals so as to be able to extend their knowledge on their own.
+5.	Understand that randomness is not black or white, but is very often a gray level related to the level of understanding
+
+
+
+
+
+
+MA035T Calculus I 
+Includes limits, derivative, differentiation, the differential elementary applications of calculus, and introduction to integration. Prereq: MA034T. (5/0) 
+
+
+MA036T Calculus II
+Continues Calculus I and includes study of the integral. integration, application of integration, logarithmic and exponential functions, trigonometric functions, and techniques of integration. Prereq: MA035T. (5/0) 
+
+
+MA053T Differential Equations 
+Continues differential equations topics covered in Calculus IV. Includes physical applications, series solutions, systems of linear differential equations, and methods of approximating the solutions to first-order equations. 
+
+
+
+
+
+
+
+
+Math 165 – Calculus I
+Course Coordinator: 
+Heather Bolles 
+hbolles@iastate.edu 
+Math 165 Catalog description: 
+Differential calculus, applications of the derivative, introduction to integral calculus.
+Prerequisite: Satisfactory performance on placement assessment, 2 years of high school algebra, 1 year of geometry, 1 semester of trigonometry; or minimum of C- in MATH 143
+Credit hours: 4 
+Course Description: 
+Basic Calculus provides an introduction to differential and integral calculus. Applications of differentiation, including optimization, are explored. 
+Course textbook: 
+The etext version of Pearson’s textbook Thomas’ Calculus, Early Transcendentals, 14th Edition, by George Thomas, Jr., Maurice D. Weir and Joel Hass accompanies a purchased access code. The access code provides access to the online homework package. Students should access the online homework (MyMathLab) only through Canvas. 
+Syllabus 
+Basics of differentiation (Sections 2.1, 2.2, 2.4-2.6, 3.1 – 3.6) includes discussion of average rates of change, limits, the definition of derivative, and differentiation rules.  
+Advanced differentiation (Sections 3.7 – 3.11, 4.1 – 4.4, 4.6) includes discussion of implicit differentiation, logarithmic differentiation, derivatives of inverse functions, related rates, linearization, optimization, and curve sketching.  
+Basics of integration (Sections 4.5, 4.7, 4.8, 5.1 – 5.6, 7.1 – 7.3) includes antiderivatives, finite sums, definite integrals, the Fundamental Theorem of Calculus, separable differential equations, and hyperbolic functions. 
+Learning Objectives 
+After completing Math 165, students should be able to: 
+Given a function and an interval or a point, find average rate of change, calculate instantaneous rate of change, and relate both to the graph of the function.   
+Demonstrate understanding of limits, including how to evaluate limits, one-sided limits, limits involving $\frac{\sin\theta}{\theta}$ as $\theta\to0$, and limits involving infinity. Use limits to identify asymptotes. The demonstration of understanding should occur without applying L’Hopital’s Rule. 
+Apply the definition of continuity. Demonstrate how to identify continuous functions. Use limits to identify and classify discontinuities.  
+Give the limit definition of derivative at a point. Use the limit definition of derivative to calculate the derivative of relatively simple functions. Give units when needed/requested.  
+Compute higher order derivatives and include units. Recognize and use the various symbols for derivatives. 
+Find tangent lines to functions and interpret a tangent line geometrically as a local approximation to the function.  
+Know and apply the rules for differentiation (power, exponential, trigonometric, sum, product, quotient, chain).  
+Relate differentiation to rates of change, including position, velocity, and acceleration.  
+________________________________________________________________________________________________________________________________
+Apply the chain rule to differentiate implicitly-defined functions and related rates problems. 
+Differentiate inverse functions, including logarithmic functions and inverse trigonometric functions.  
+Apply logarithmic differentiation to find derivatives. 
+Apply linearization of a function at a point to calculate approximations; use differentials to estimate errors.  
+Identify the candidates for the extreme values of a function and give the extreme values of a function.  
+Use the first and second derivatives of a function to identify where a function is increasing or decreasing, concave up or concave down. Apply the first and second derivative tests to classify critical points. 
+Use the tools of calculus and algebra to sketch, by hand, good graphs of functions including intercepts, critical points, inflection points, and asymptotes. 
+Solve applied optimization problems. 
+________________________________________________________________________________________________________________________________
+Use L’Hopital’s Rule to evaluate limits involving indeterminate forms.  
+Apply Newton’s method to approximate solutions to equations.  
+Relate the mean value theorem to average and instantaneous rates of change of a function on a closed interval.  
+Evaluate antiderivatives of elementary functions, and solve initial value problems.  
+Use Riemann sums to approximate the area bounded by curves. Given a velocity function, use a Riemann sum to approximate distance and net distance traveled.   
+Evaluate definite integrals and use definite integrals to calculate the area bounded by curves. 
+Calculate the average value of a function over a closed interval. 
+Apply Part I of the Fundamental Theorem of Calculus to differentiate an integral function; apply Part II of the Fundamental Theorem of Calculus to evaluate definite integrals.  
+Apply the substitution method to evaluate integrals, both definite and indefinite. Make appropriate changes to the limits of integration when solving definite integrals.  
+Set up and solve simple separable differential equations, with or without initial conditions.  
+Apply the definition of hyperbolic functions with algebra and calculus to derive properties and establish identities involving the hyperbolic functions. 
+Assessments: 
+Three midterm night exams and a cumulative final exam are given. Times for the night exams may be found at the night exam schedule at https://www.registrar.iastate.edu/students/exams. 
+Weekly quizzes are administered in recitation session.  
+Three online (MyMathLab) homework assignments are due most weeks. The online homework package with a purchased access code includes the electronic textbook.  
+Many materials, including videos, practice exams, and quizzes, are available at calc1.org. 
+Math 165 Help 
+Math 165 students may access the help hour times and location by following the link established in the Canvas course pages.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math 166 – Calculus II
+Course Coordinator:
+Heather Bolles
+hbolles@iastate.edu
+Math 166 Catalog description:
+Integral calculus, applications of the integral, parametric curves and polar coordinates, power series and Taylor series.
+Prerequisite: Minimum of C- in MATH 165 or high math placement scores
+Credit hours: 4
+Course Description:
+An exploration of advanced techniques of integration. Applications of integration, including geometry, physics, polar coordinates and parametric curves, are explored. Power series are introduced and applications of approximating functions are given.
+Course textbook:
+The etext version of Pearson’s textbook Thomas’ Calculus, Early Transcendentals, 14th Edition, by George Thomas, Jr., Maurice D. Weir and Joel Hass accompanies a purchased access code. The access code provides access to the online homework package. Students should access the online homework (MyMathLab) only through Canvas.
+Syllabus
+Application of Integration (Sections 6.1-6.6, 11.1-11.5) includes discussion of calculating volume using cross-sections and cylindrical shells, arc length, areas of surfaces of revolution, work and fluid force, moments and centers of mass, calculus with parametric curves and polar graphs.
+Advanced Integration Techniques (Sections 8.1-8.5, 8.7, 8.8) includes discussion of integration by parts, trigonometric integrals, trigonometric substitution, integration of rational functions using partial fraction decomposition, numerical integration, and improper integration.
+Infinite Sequences and Series (Sections 10.1 – 10.10) includes discussion of sequences, series, tests for convergence, power series, intervals of convergence, Taylor series, and applications of series.
+Learning Objectives
+After completing Math 166, students should be able to:
+Find the volume of a 3-dimensional solid, by drawing and labeling the 2-dimensional cross-section. Apply basic geometry to determine the volume of a “slice,” and set up the definite integral.
+Find the volume of a 3-dimensional solid by revolution using cylindrical shells.
+Calculate the length of a curve.
+Find the area of a surface of revolution.
+Calculate the amount of work done in stretching or compressing a spring or in moving a mass along a horizontal or vertical path.
+Calculate the fluid force acting on an object like the side of a tank.
+Calculate the moments, centers of mass, and centroids of thin wires and thin flat plates.
+Convert a pair of parametric equations to a Cartesian representation of an equation or from a Cartesian representation to parametric form.
+Find the equation of the line tangent to a curve at a given point, given a pair of parametric equations for a curve.
+Find the area of a region bounded by one or more parametric curves and find the length of a curve given in parametric form.
+Convert equations given in Cartesian form to equivalent expressions in polar coordinates, and convert equations given in polar form to equivalent expressions in Cartesian form.
+Plot points and equations in polar coordinates.
+Express equations given in polar coordinates in parametric equation form.
+Find the (Cartesian) equation of a line tangent to a curve described by a polar equation.
+Find the area bounded by one or more curves described by polar equations.
+Find the length of curves described by polar equations.
+________________________________________________________________________________________________________________________________
+Solve integrals using integration by parts.
+Solve integrals involving powers of trigonometric functions.
+Evaluate integrals by applying an appropriate trigonometric substitution and evaluating the resulting trigonometric integral.
+Given a rational function, rewrite the integrand as needed using partial fraction decomposition and proceeding with other techniques of integration.
+Apply numerical integration techniques (including left or right endpoint, midpoint, trapezoidal rule, or Simpson’s rule) to approximate a definite integral.
+Estimate the error involved with using a numerical integration technique when trapezoidal or Simpson’s rules are applied.
+Given an improper integral, determine whether it converges or diverges by evaluation, the direct comparison test, or the limit comparison test.
+________________________________________________________________________________________________________________________________
+Evaluate the limit of a sequence, if one exists. This may require application of L’Hopital’s Rule.
+Explain what it means for an infinite series to converge or diverge.
+Find the sum of a converging geometric series or identify when a geometric series diverges.
+Find the sum of a telescoping series or determine that the limit does not exist.
+Apply various tests to determine convergence or divergence of an infinite series. Tests include the nth term test, integral test, comparison tests, ratio test, root test, and alternating series test.
+Find the radius and interval of convergence of a power series.
+Write a Taylor or Maclaurin series or polynomial for a function given a center.
+Derive the Maclaurin series for sin(x), cos(x), e^x, 1/(1-x), arctan(x), and ln(1+x).
+Determine the nth order Taylor polynomial, P_n(x;a), about a specified center a, and calculate a corresponding error approximation, R_n(x;a)  on a given interval centered at a.
+Develop the binomial series for expressions taking the form (1+x^k)^m.
+Use power (Taylor) series to approximate definite integrals of non-elementary functions and to evaluate limits taking indeterminate forms.
+Assessments:
+Three midterm night exams and a cumulative final exam are given. Times for the night exams may be found at the night exam schedule at https://www.registrar.iastate.edu/students/exams.
+Weekly quizzes are administered in recitation session.
+Three online (MyMathLab) homework assignments are due most weeks. The online homework package with a purchased access code includes the electronic textbook.
+Many materials, including videos, practice exams, and quizzes, are available at calc2.org.
+Math 166 Help
+Math 166 students may access the help hour times and location by following the link established in the Canvas course pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Math 266/267 – Elementary Differential Equations/Elementary Differential Equations and Laplace Transforms
+Course Coordinator
+Man Basnet
+mbasnet@iastate.edu
+
+Catalog Description
+MATH 266: Elementary Differential Equations
+(3-0) Cr. 3. F.S.SS.
+Prereq: Minimum of C- in MATH 166 or MATH 166H
+Solution methods for ordinary differential equations. First order equations, linear equations, constant coefficient equations. Eigenvalue methods for systems of first order linear equations. Introduction to stability and phase plane analysis.
+MATH 267: Elementary Differential Equations and Laplace Transforms
+(4-0) Cr. 4. F.S.SS.
+Prereq: Minimum of C- in MATH 166 or MATH 166H
+Same as MATH 266 but also including Laplace transforms and power series solutions to ordinary differential equations.
+
+Textbook
+Differential Equations And Boundary Value Problems, Pearson, 5th edition with access to MyMathLab online homework platform
+Edwards, Penney, and Calvis
+ISBN: 9780134872971
+MATH 266 and 267 are enrolled in the Iowa State University Immediate Access Program. The price charged through this program covers one semester access to the digital content, that is, the e-book and online homework platform, which will be automatically charged to your U-Bill shortly before classes begin. A print copy of the text can also be purchased, and a loose-leaf version of the text will also become available in the third week of the semester.
+
+Syllabus
+Math 267 contains all the topics from Math266, plus two additional topics.
+Math 266 and 267
+First Order ODEs
+Sections 1.1–1.2, 1.3 (Optional), and 1.4-1.6
+Applications of the 1st Order ODEs
+Sections 2.1-2.2
+Higher Order Linear ODEs
+Sections 3.1-3.5
+Intro. to Systems of ODEs
+Sections 4.1-4.2
+Linear Systems of ODEs
+Sections 5.1-5.2, 5.3 (Optional), and 5.5-5.7
+Nonlinear Systems and Phenomena
+Sections 6.1-6.2 (Optional)
+Math 267 only
+Laplace Transform Methods
+Sections 7.1-7.6
+Power Series Methods
+Sections 8.1-8.2
+
+Objectives for Math 266
+Be able to identify types of differential equations and use appropriate methods to solve them.
+Be able to use the method of integrating factors to solve first order linear equations.
+Be able to separate variables and compute integrals in solving first order separable equations.
+Know how to find a general solution of a linear second order constant coefficient homogeneous differential equation by seeking exponential solutions.
+Be able to use the method of undetermined coefficients to find a particular solution of a linear second order constant coefficient nonhomogeneous differential equation.
+Be able to find a general solution of a linear second order constant coefficient nonhomogeneous equation.
+Be able to solve an initial value problem associated with a linear second order constant coefficient homogeneous or nonhomogeneous equation.
+Be able to extend the methods used for linear second order constant coefficient equations to higher order linear constant coefficient equations, both homogeneous and non-homogeneous.
+Be able to use the eigenvalue-eigenvector method to find general solutions of linear first order constant coefficient systems of differential equations of size 2 or 3.
+Be able to find a fundamental matrix for linear first order constant coefficient system of differential equations of size 2 or 3.
+Be able to use the method of variation of parameters to find a particular solution of a nonhomogeneous linear first order constant coefficient system of size 2.
+Learn how differential equations are used to model physical systems and other applied problems. These could include the following types of problems.
+Be able to formulate and use elementary models for population dynamics, such as the logistic equation, to describe transient and steady state behavior.
+Be able to work with models for the linear motion of objects using assumptions on the velocity and acceleration of the object.
+Be able to set up and solve a problem involving stirred tank reactor dynamics.
+Be able to use Newton’s second law to set up a model for a simple spring-mass system; and use appropriate methods to obtain the solution of the model problem.
+Be able to use models for continuous compounding of interest to describe elementary savings and loan problems.
+Gain an elementary understanding of the theory of ordinary differential equations.
+Understand statements on existence and uniqueness of solutions.
+Understand the role of linear independence of solutions in finding general solutions of differential equations.
+Understand what constitutes a general solution of a differential equation.
+Understand the concept of stability as it relates to equilibrium solutions.
+Objectives of Math 267
+All of the above objectives for Math 266, and in addition
+Be able to use the method of Laplace transforms to solve linear second order constant coefficient homogeneous and nonhomogeneous equations.
+Be able to use series methods to find a power series solution of a linear second order variable coefficient homogeneous equation about an ordinary point.
+
+
+
+
+ 
+
+
+
+
+
